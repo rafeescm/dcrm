@@ -1,1 +1,3 @@
 crmEnv/
+.idea/
+db.sqlite3
